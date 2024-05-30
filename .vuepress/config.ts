@@ -6,11 +6,11 @@ import extraSideBar from "./extraSideBar";
 
 const author = "周星星";
 const domain = "https://upchatgpt.cn";
-const tags = ["gpt4", "gpt中文网", "gpt4升级网", "chatgpt", "编程", "计算机"];
+const tags = ["gpt4", "gpt中文网", "gpt4升级网", "gpt4o", "gpt4国内升级", "claude3升级开通", "Gemini升级开通","chatgpt", "Claude3 注册", "openapi申请", "gpt4注册", "编程", "计算机"];
 
 export default defineConfig({
   title: "ChatGPT中文网",
-  description: "关注最新的ChatGPT技术，免费分享AI编程学习资源",
+  description: "关注最新的ChatGPT技术，免费分享AI编程学习资源。包含GPT4国内升级、Gemini升级开通、Claude3升级开通等教程分享。",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -20,7 +20,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "ChatGPT, chatgpt中文网, OpenAI, Prompt, gpt升级, 如何订阅chatgpt, stable diffusion, ai绘画, ai教程,开发, gpt4o, 编程分享, 项目, IT, 求职, 面经",
+          "gpt4o国内升级, gpt4国内升级教程, gpt4注册, claude3注册, claude3国内升级,  Gemini注册, Gemini国内升级开通, ChatGPT, chatgpt中文网, OpenAI, Prompt, gpt升级, 如何订阅chatgpt, stable diffusion, ai绘画, ai教程,开发, gpt4o, 编程分享, 项目, IT, 求职, 面经",
       },
     ],
     // 百度统计

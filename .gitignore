@@ -96,7 +96,7 @@ out
 # assets
 
 # vuepress build output
-.vuepress/dist
+# .vuepress/dist
 
 # Serverless directories
 .serverless/
@@ -120,4 +120,3 @@ out
 .yarn/install-state.gz
 .pnp.*
 
-/.vuepress/
