@@ -1,5 +1,5 @@
 ---
-permalink: /
+title: （2024最新）解决国内暂停升级GPT4，如何开通 ChatGPT Plus
 ---
 
 # （2024最新）ChatGPT 国内gpt4暂停升级，gpt4、gpt3.5升级注册教程
@@ -10,10 +10,6 @@ permalink: /
 >
 > 本站地址：[https://upchatgpt.cn](https://upchatgpt.cn)
 
-
-<!-- ## [编程学习路线](/学习路线) -->
-
-<!-- 包含 Java、前端、C++、Python、SQL、计算机基础、数据结构和算法、Git & GitHub、Linux、设计模式等多个精心编写的学习路线，帮助程序员快速入门。 -->
 
 ## 前言
 目前，国内的chatgpt是暂停升级的，但是办法总比困难多。下面可以看gpt4升级注册的详细教程，内附详细教程2024.6月最新。一篇就可以解决你无法升级gpt4的问题。
@@ -118,4 +114,3 @@ permalink: /
 6. [openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办](https://openssora.com/openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办/)
 7. [openai-api-绑卡及-key-申请教程](https://openssora.com/openai-api-绑卡及-key-申请教程/)
 8. [chatgpt被封号了如何申诉和退费（内附详细教程）](https://openssora.com/how-chatgpt-banned-refund-appeal/)
-
