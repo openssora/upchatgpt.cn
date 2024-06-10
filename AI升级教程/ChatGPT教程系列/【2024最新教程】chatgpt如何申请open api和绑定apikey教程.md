@@ -165,7 +165,3 @@ OpenAI 会根据你充值的金额，对你进行消费限额，比如你充值�
  
 
 **上面的wildcard平台地址：[https://wildcard.com.cn/i/UPGPT](https://wildcard.com.cn/i/UPGPT)**, 如果官方需要邀请码的话，可以使用官方字段： **UPGPT **，因为官方是通过邀请制开卡的。
-
-
-# 关注公众号，拉你进chatgpt问题交流群：
-<img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />
