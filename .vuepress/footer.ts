@@ -16,6 +16,10 @@ export default {
       label: "tuYoung UI",
       href: "https://jobinben.github.io/",
     },
+    {
+      label: "FomeCard虚拟卡",
+      href: "https://chat.fomecard.top/",
+    }
   ],
   copyright: {
     href: "https://beian.miit.gov.cn/",
