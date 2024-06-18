@@ -16,6 +16,13 @@
 
 
 
+## Openai 的用户体系分成两大类：ChatGPT 用户和API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的：
+
+- ChatGPT 用户的登录入口是 [https://chat.openai.com](https://chat.openai.com)
+- API 开发者用户的登录入口是 [https://platform.openai.com](https://platform.openai.com)
+- ChatGPT 账号免费注册入口是 [免费注册地址](https://upchatgpt.cn/openai%E7%9A%84chatgpt%E6%B3%A8%E5%86%8C/)
+
+
 
 
 

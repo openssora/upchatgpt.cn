@@ -9,6 +9,9 @@ export default [
             "ChatGPT教程系列/【2024最新教程】解决无国外手机号码，如何注册谷歌账号.md",
             "ChatGPT教程系列/【2024最新教程】chatgpt如何申请open api和绑定apikey教程.md",
             "ChatGPT教程系列/【2024最新教程】gpt-4o如何使用，怎么体验.md",
+            "ChatGPT教程系列/chatgpt-entrance.md",
+            "ChatGPT教程系列/openai-your-card-has-been-declined.md",
+            "ChatGPT教程系列/openai-api-deduct-5.md"
         ],
     },
     {
