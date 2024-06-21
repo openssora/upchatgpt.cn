@@ -19,6 +19,7 @@ export default [
         collapsable: true,
         children: [
             "Claude3教程系列/国内Claude3升级与注册教程.md",
+            "Claude3教程系列/how-register-claude3-open-artifacts.md",
         ],
     },
   ];
