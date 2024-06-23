@@ -11,7 +11,8 @@ export default [
             "ChatGPT教程系列/【2024最新教程】gpt-4o如何使用，怎么体验.md",
             "ChatGPT教程系列/chatgpt-entrance.md",
             "ChatGPT教程系列/openai-your-card-has-been-declined.md",
-            "ChatGPT教程系列/openai-api-deduct-5.md"
+            "ChatGPT教程系列/openai-api-deduct-5.md",
+            "ChatGPT教程系列/chatgpt-no-reponse-无法发送消息了.md",
         ],
     },
     {
