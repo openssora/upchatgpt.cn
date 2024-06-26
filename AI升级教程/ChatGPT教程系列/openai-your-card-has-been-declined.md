@@ -1,6 +1,8 @@
 ---
 title: chatgpt支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办
 ---
+# chatgpt支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办
+
 OpenAI 支付出现「您的银行卡被拒绝/your card has been declined」怎么办？在订阅 ChatGPT Plus 或者 OpenAI API 时，有时候会出现已下报错 ：
 1. Your card has been declined.（您的银行卡被拒绝）
 2. 请您在OpenAI绑卡前，一定要保证卡上至少有5美元的余额，否则会绑卡失败。

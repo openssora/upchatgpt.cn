@@ -1,6 +1,7 @@
 ---
 title: 【保姆级教程】教你如何订阅OnlyFans？解决OnlyFans如何支付？OnlyFans虚拟银行卡订阅教程
 ---
+# 保姆级教程】教你如何订阅OnlyFans？解决OnlyFans如何支付？OnlyFans虚拟银行卡订阅教程
 
 OnlyFans和Patreon这种订阅性质的网站等不支持中国内地借记卡、信用卡给ChatGPT Plus、ChatGPT API、Onlyfans、Partreon 等海外服务支付，可以借助Fomecard虚拟卡解决。
 

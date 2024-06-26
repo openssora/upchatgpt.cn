@@ -23,5 +23,12 @@ export default [
             "Claude3教程系列/how-register-claude3-open-artifacts.md",
         ],
     },
+    {
+        title: "Poe",
+        collapsable: true,
+        children: [
+            "Poe/poe-ai-register-subscribe.md",
+        ],
+    },
   ];
   

@@ -1,6 +1,7 @@
 ---
 title: OpenAI API 绑卡时，为什么会产生 5 美元的费用？
 ---
+# OpenAI API 绑卡时，为什么会产生 5 美元的费用？
 
 1. **chatgpt4官网访问地址**：[https://chat.openai.com](https://chat.openai.com/)
 
