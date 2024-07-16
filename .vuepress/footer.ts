@@ -24,6 +24,10 @@ export default {
       label: "WildCard虚拟卡",
       href: "https://wildcard.com.cn/i/UPGPT",
     },
+    {
+      label: "FomePay虚拟卡",
+      href: "https://chat.fomepay.org/",
+    },
   ],
   copyright: {
     href: "https://beian.miit.gov.cn/",

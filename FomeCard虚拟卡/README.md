@@ -1,5 +1,5 @@
 ---
-title: 教你如何使用Fomecard虚拟卡订阅ChatGPT、Midjourney、Onlyfans等服务
+title: 教你如何使用Fomecard虚拟卡订阅ChatGPT、Midjourney、Onlyfans、 Patreon等服务
 ---
 
 OpenAI官方、Onlyfans 等不支持中国内地借记卡、信用卡给ChatGPT Plus、ChatGPT API、Onlyfans 等海外服务支付，可以借助Fomepay虚拟卡。
