@@ -13,6 +13,7 @@ export default [
             "ChatGPT教程系列/openai-your-card-has-been-declined.md",
             "ChatGPT教程系列/openai-api-deduct-5.md",
             "ChatGPT教程系列/chatgpt-no-reponse-无法发送消息了.md",
+            "ChatGPT教程系列/how-to-install-chatgpt-mac.md",
         ],
     },
     {
