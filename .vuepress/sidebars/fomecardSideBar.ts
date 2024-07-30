@@ -7,5 +7,12 @@ export default [
             "Onlyfans订阅教程/how-subscribe-to-onlyfans.md",
         ],
     },
+    {
+        title: "FomeCard开通教程",
+        collapsable: true,
+        children: [
+            "FomeCard开通教程/how-bank-card-cannot-pay.md",
+        ],
+    },
   ];
   

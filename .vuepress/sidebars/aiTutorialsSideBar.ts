@@ -9,6 +9,12 @@ export default [
             "ChatGPT教程系列/【2024最新教程】解决无国外手机号码，如何注册谷歌账号.md",
             "ChatGPT教程系列/【2024最新教程】chatgpt如何申请open api和绑定apikey教程.md",
             "ChatGPT教程系列/【2024最新教程】gpt-4o如何使用，怎么体验.md",
+            "ChatGPT教程系列/chatgpt-entrance.md",
+            "ChatGPT教程系列/openai-your-card-has-been-declined.md",
+            "ChatGPT教程系列/openai-api-deduct-5.md",
+            "ChatGPT教程系列/chatgpt-no-reponse-无法发送消息了.md",
+            "ChatGPT教程系列/how-to-install-chatgpt-mac.md",
+            "ChatGPT教程系列/how-to-use-gpt-4o-mini.md",
         ],
     },
     {
@@ -16,6 +22,14 @@ export default [
         collapsable: true,
         children: [
             "Claude3教程系列/国内Claude3升级与注册教程.md",
+            "Claude3教程系列/how-register-claude3-open-artifacts.md",
+        ],
+    },
+    {
+        title: "Poe",
+        collapsable: true,
+        children: [
+            "Poe/poe-ai-register-subscribe.md",
         ],
     },
   ];
