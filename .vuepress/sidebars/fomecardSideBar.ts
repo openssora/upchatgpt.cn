@@ -8,7 +8,7 @@ export default [
         ],
     },
     {
-        title: "FomeCard开通教程",
+        title: "Widlcard开通教程",
         collapsable: true,
         children: [
             "FomeCard开通教程/how-bank-card-cannot-pay.md",

@@ -17,16 +17,8 @@ export default {
       href: "https://jobinben.github.io/",
     },
     {
-      label: "FomeCard虚拟卡",
-      href: "https://chat.fomecard.top/",
-    },
-    {
       label: "WildCard虚拟卡",
       href: "https://wildcard.com.cn/i/UPGPT",
-    },
-    {
-      label: "FomePay虚拟卡",
-      href: "https://chat.fomepay.org/",
     },
   ],
   copyright: {

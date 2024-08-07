@@ -40,49 +40,37 @@ wildcard 本质上是借记卡，没有额度，没有余额是无法绑定成�
 
 开启自动充值后，卡片余额足够的情况下（自动充值最低10美金，可能还需要绑卡预扣款5美金，卡片最好至少有15美金），一般过一段时间会自动充值到api里面，可以稍等一段时间看看。
 
-另外，你如果无虚拟卡的情况下，可以通过注册申请一张Fomecard虚拟卡，可以用来绑定卡，另外，如果出现fomecard虚拟卡无法使用的情况下，可以免费换卡。
-**FomeCard虚拟卡官网地址**：[https://chat.fomecard.top/](https://chat.fomecard.top/)
+## 如何升级订阅
 
+对于订阅升级海外服务，国内用户都会面临无法绑卡和无法支付的情况。因为海外软件需要**visa、master 这类国际银行卡**。正常国内用户没有办理这类型的卡。
 
+**对于国内用户，最流行和常见的就是使用虚拟卡进行订阅海外服务**。
 
-## 三、如何注册fomecard
+**（别用 fomepay 和 fomecard 这些国外的虚拟卡服务，容易跑路）相对来说，wildcard 是国内的一个虚拟卡，比较稳定，安全。**
 
-首先是**Fomecard官网地址：**[**https://chat.fomecard.top/**](https://chat.fomecard.top/)
+也可以参考部分博主的教程：
 
-不需要什么邀请码，直接使用邮箱注册就行。如果你需要注册fomecard的话，你可以领取**官方大额优惠卡**，可以直接减免2刀。**口令是：GPT**
+1. 使用 wildcard 进行订阅：[https://wildcard.com.cn/i/UPGPT](https://wildcard.com.cn/i/UPGPT)
 
-![口令](https://picx.zhimg.com/80/v2-01c47d3bdebaf58008ecfa6574465e51_720w.png)
+![img](https://pic1.zhimg.com/80/v2-de00eb1fddc289fb6c904084dfc8f92d_720w.jpg)
 
+**下面使用 wildcard 虚拟卡进行订阅**perplexity.ai**的教程，几乎所有的海外支付绑卡流程都一致的了。**
 
-另外，开卡之前需要充值，你可以**选择USDT或者RMB支付**。上面的优惠卡，是可以在开卡时，进行一个抵扣的。
+先注册一个 wildcard 虚拟卡账号，使用上面的官网链接就行。然后填写 **UPGPT** 邀请码，可以减免 2 美刀！ 有很多朋友不知道邀请码多少，直接开卡就贵了一些。
 
-![支付](https://pica.zhimg.com/80/v2-c64848a0b3b680ffd136a8e504c5f0bc_720w.png)
+（1）首先进入到 perplexity 官网，点击 try pro，然后选择要升级到服务。
 
+![img](https://pic1.zhimg.com/80/v2-ad711645d8a486149ab412289d9a69eb_720w.jpg)
 
-**卡内的余额在不用的情况下，可以直接提现的。**
+（2）就可以进入到绑卡页面，银行卡的信息填你的虚拟卡信息
 
-![支付](https://pic1.zhimg.com/80/v2-05cad2d5cb8cf51450f9e3be56baf6be_720w.jpeg)
+![img](https://pic4.zhimg.com/80/v2-8d2f0f673937c7f53f281da43be0718f_720w.jpg)
 
-**！！！注意：如果扫码无法支付时，可能是不同网络的原因，可以直接在手机端网页登录后进行充值。或者复制链接打开微信进行扫码支付。**
+（3）进入到你的虚拟卡平台，点击我的卡片
+![img](https://pic1.zhimg.com/80/v2-473400bd46e45d46e8cad0e52f7ff0f9_720w.jpg)
 
+（4）如何把卡片对应的信息，填入到 perplexity 绑卡页面，切记！你绑卡时，要确保余额充足！！ 余额不足绑卡失败的，因为你需要 20 的费用，建议你有的费用，建议你有 21 的余额！
+![img](https://pic4.zhimg.com/80/v2-b23692017c29ed2ea8f3a6ab3c10331e_720w.jpg)
 
-**开卡时，建议选择534786卡段，比较通用。**
+这套绑卡步骤下来，大概 3 分钟就可以完成海外服务的订阅。
 
-- **无需AVS验证 无需3DS** 
-- ChatGPT、Open AI、,Midjourney优选
-- 支持: FaceBook, Google, Amazon, PayPal, Shopify, Tiktok, Alibaba, AliExpress… Alipay、AppStore、GooglePlay 
-- 特点：支持面广、综合性强、使用流畅、性价比高。
-
-![开卡](https://picx.zhimg.com/80/v2-24d9bd50cd8c976ccc47248c6a9abf44_720w.jpeg)
-
-
-**开完卡之后，就可以得到对应的卡片信息。**复制对应的信息，就可以去绑定对应的服务等，比如ChatGPT、OnlyFans、Poe、Midjourney等服务。
-
-![卡片](https://pic1.zhimg.com/80/v2-64a75b5777752174c4be99f24d981d8a_720w.jpeg)
-
-
-## 四、升级和支付ChatGPT、Onlyfans
-
-在fomecard查看自己的信用卡号、CVC、国家等信息，然后去填写到GPT、Onlyfans支付页面即可。**ChatGPT无法绑定卡片的话，是因为需要你的环境为美国家庭环境，你可以直接在线客服，帮你升级处理也可以。**
-
-![客服中心](https://pica.zhimg.com/80/v2-9c34b5c86a12989e742fbc1199f313e7_720w.png)
