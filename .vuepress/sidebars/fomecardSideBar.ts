@@ -5,6 +5,7 @@ export default [
         collapsable: true,
         children: [
             "Onlyfans订阅教程/how-subscribe-to-onlyfans.md",
+            "Onlyfans订阅教程/subscribe-onlyfans.md",
         ],
     },
     {

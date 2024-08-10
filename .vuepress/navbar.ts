@@ -6,7 +6,7 @@ export default [
         link: '/AI升级教程/'
     },
     {
-        text: "FomeCard虚拟卡",
+        text: "Wildcard虚拟卡",
         link: '/FomeCard虚拟卡/'
     },
 ] as NavItem[];
