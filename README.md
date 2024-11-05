@@ -45,9 +45,9 @@ permalink: /
 
 目前我找到一个方式，非常方便，全程大概 3 分钟以内搞定！(可以放心开卡、充值，目前还可以用，不能用的话，我会及时同步的)
 
-完美解决缺乏国外信用卡银行卡的一些问题：[WildCard | 一分钟注册，轻松订阅海外软件服务](https://wildcard.com.cn/i/UP88)
+完美解决缺乏国外信用卡银行卡的一些问题：[WildCard | 一分钟注册，轻松订阅海外软件服务](https://wildcard.com.cn/i/UPGPT)
 
-（**PS：大家可以使用我的邀请链接: [https://wildcard.com.cn/i/UP88](https://wildcard.com.cn/i/UP88)，或者邀请码：UP88，这样你能有 88 折优惠**
+（**PS：大家可以使用我的邀请链接: [https://wildcard.com.cn/i/UPGPT](https://wildcard.com.cn/i/UPGPT)，或者邀请码：UPGPT，这样你能有 88 折优惠**
 
 然后服务需要选择 **【Wildcard】** ，这个是虚拟卡，已经稳定上线一年了，建议用虚拟卡自己订阅
 
